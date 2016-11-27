@@ -1,0 +1,2 @@
+
+nxjupload -r -u *nxj
